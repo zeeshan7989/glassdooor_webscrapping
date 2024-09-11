@@ -1,0 +1,539 @@
+Job_Title,Job_Company,Job_Location,Job_Salary,Job_Description,Job_Email,Job_PostedDate,Job_Link
+Senior Data Engineer,Discord,"San Francisco, CA",$183K - $202K (Employer est.),"Discord is about giving people the power to create space to find belonging in their lives. We want to make it easier for you to talk regularly with the people you care about. We want you to build genuine relationships with your friends and communities close to home or around the world. Original, reliable, playful, and relatable. These are the values that connect our users and our employees at Discord. Discord is looking for experienced and passionate Senior Data Engineers to join our Data team! Data Engineers at Discord collaborate with data science and engineering teams to build and support foundational high-leverage data sets that power tools, analyses, and models. The data sets built by DE directly inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data, impact, and working on an amazing team, read on! What you will be doing: Create and maintain data pipelines and foundational datasets to support analytics, modeling, experimentation, and product/business needs Design and build database architectures with massive and complex data, balancing ergonomic benefits with computational load and cost Collaborate closely with data science, machine learning, and engineering teams to improve the coverage, accuracy, and reliability of instrumentation Develop audits for data quality at scale, implementing alerting and anomaly detection as necessary Create scalable dashboards and reports to support business objectives and enable data-driven decision making Partner with data scientists, engineers, and product teams to accomplish all of the above! What you should have 4+ years of experience building data pipelines in production environments with high volumes of consumer data 4+ years of experience in designing, developing, and maintaining robust data models from structured and unstructured sources 4+ years of experience writing accurate and effective code in SQL and Python Experience implementing and monitoring audits for data quality with massive data sets (e.g. billions of rows) Experience proactively identifying opportunities to improve ETL &amp; dashboard performance and cost Experience leveraging your excellent communication and stakeholder management skills to thrive in ambiguous environments where problems are not well-defined and evolve quickly A desire to work with amazing, passionate people who care deeply about solving challenging problems to improve Discord Last but not least - a collaborative attitude and a healthy dose of natural curiosity! Bonus Points: Passion for Discord or online communities Experience owning and proactively improving the data models for a functional area leveraging deep knowledge of performant scalable patterns Experience collaborating directly with data science, machine learning, and product engineering teams Experience with modern data storage and processing technologies (i.e. BigQuery SQL, Airflow, and DBT or similar) Experience with data visualization and dashboarding technologies (i.e. Looker, Tableau, or similar) Experience with designing data architecture to power a variety of use cases, including experimentation #LI-RemoteThe US base salary range for this full-time position is $183,000 to $201,500 + equity + benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.Why Discord?Discord is great for playing games and chilling with friends, or even building a worldwide community. We are working toward forming true connections around play and shared experiences, where genuine human connection is a click, text chat, or voice call away. A place where everyone can build genuine friendships. Your future is just a click away! Check out ourinclusion, diversity and purpose efforts, company principles, or learn more about the Life @ Discord experience!
+Show more",N/A,24h,"https://www.glassdoor.com/job-listing/senior-data-engineer-discord-JV_IC1147401_KO0,20_KE21,28.htm?jl=1009439789756"
+Battery Data Engineer,Fluence Energy,"Houston, TX",$83K - $129K (Glassdoor est.),"Fluence is a leader in energy storage solutions, committed to innovation and excellence in battery technology. We are dedicated to advancing the integration of renewable energy and ensuring the reliability and efficiency of energy storage systems. Join our team and contribute to a sustainable future.
+We are seeking a highly skilled and experienced Senior Battery Data Engineer to join our Battery Systems Engineering team. The Senior Battery Data Engineer will be responsible for developing, implementing, and optimizing data pipelines and architectures to collect, process, and analyze battery performance and health data. This role will provide technical leadership and work closely with cross-functional teams to support data-driven decision-making and enhance our battery intelligence solutions.
+Show more",N/A,6d,"https://www.glassdoor.com/job-listing/battery-data-engineer-fluence-energy-JV_IC1140171_KO0,21_KE22,36.htm?jl=1009433828879"
+API Data Engineer,Wounded Warrior Project,"Jacksonville, FL",$82K - $117K (Glassdoor est.),"Great benefits. Competitive pay. We know these are some of the things people look for in a job.
+
+If you’re the kind of person who believes that honoring and empowering our nation’s veterans is more than just a cause — that it’s a calling — then we’re ready to meet you.
+When you join Wounded Warrior Project® (WWP), you’re committing to making a difference. We make a commitment to you, too – helping you to find that spark, ignite your passion to serve, and embark on a career with meaning and purpose.
+
+At WWP™, we recognize our mission cannot be accomplished without our talented teammates, which is why we’re proud to offer benefits such as:
+The Wounded Warrior Project (WWP) API Data Engineer is a member of the Web, Data, and Analytics team responsible for data engineering and programming to build systems that collect, manage and convert raw data into usable information for business analysts. This role is responsible for creating and maintaining data pipelines, databases, and an enterprise data warehouse.
+
+
+
+Show more",N/A,27d,"https://www.glassdoor.com/job-listing/api-data-engineer-wounded-warrior-project-JV_IC1154093_KO0,17_KE18,41.htm?jl=1009406739556"
+Sr. Data Engineer,GoodRx,"Santa Monica, CA",$121K - $257K (Employer est.),"GoodRx is the leading prescription savings platform in the U.S. Trusted by more than 25 million consumers and 750,000 healthcare professionals annually, GoodRx provides access to savings and affordability options for generic and brand-name medications at more than 70,000 pharmacies nationwide, as well as comprehensive healthcare research and information. Since 2011, GoodRx has helped consumers save nearly $75 billion on the cost of their prescriptions.
+Our goal is to help Americans find convenient and affordable healthcare. We offer solutions for consumers, employers, health plans, and anyone else who shares our desire to provide affordable prescriptions to all Americans.
+About the Role:
+GoodRx is looking for extremely smart and curious data engineers, who are deft at working with a wide variety of languages, a variety of raw data formats, such as parquet, in a fast-paced and friendly environment. You will collaborate and work with teams across GoodRx to build outstanding data pipelines and processes that stitch together complex sets of data stores in order to guide business decisions.
+Engineering teams are responsible for supporting appropriate security controls, including management, operational, and technical controls in addition to general GoodRx best practices, such as reading and adhering to the security policies and procedures, being vigilant and observant of potential security threats, etc.
+$161,000.00 - $257,000.00
+$147,000.00 - $235,000.00
+$134,000.00 - $214,000.00
+$121,000.00 - $193,000.00
+Show more",N/A,15d,"https://www.glassdoor.com/job-listing/sr-data-engineer-goodrx-JV_IC1146873_KO0,16_KE17,23.htm?jl=1009420840828"
+Emerging Field Data Engineer/Specialist,"Kia America, Inc.","Irvine, CA",$72K - $94K (Employer est.),"At Kia, we’re creating award-winning products and redefining what value means in the automotive industry. It takes a special group of individuals to do what we do, and we do it together. Our culture is fast-paced, collaborative, and innovative. Our people thrive on thinking differently and challenging the status quo. We are creating something special here, a culture of learning and opportunity, where you can help Kia achieve big things and most importantly, feel passionate and connected to your work every day.
+Kia provides team members with competitive benefits including premium paid medical, dental and vision coverage for you and your dependents, 401(k) plan matching of 100% up to 6% of the salary deferral, and time off starting at 14 days per year. Kia also offers company lease and purchase programs, company-wide holiday shutdown, paid volunteer hours, and premium lifestyle amenities at our corporate campus in Irvine, California.
+
+
+
+
+
+
+Show more",N/A,8d,"https://www.glassdoor.com/job-listing/emerging-field-data-engineer-specialist-kia-america-inc-JV_IC1146798_KO0,39_KE40,55.htm?jl=1009431661114"
+Data Engineer Intermediate,Sundyne,"Arvada, CO",$120K - $125K (Employer est.),"It's fun to work in a company where people truly BELIEVE in what they are doing!
+Headquartered in Arvada, Colorado with operations and presence in Europe, the Middle East, India, Asia, Japan and China, Sundyne is a global manufacturer of precision-engineered, highly reliable, safe and efficient centrifugal pumps and compressors for use in chemical, petrochemical, hydrocarbon, hydrogen, pharmaceutical, power generation and industrial applications. Sundyne is a leader in delivering precision-engineered and highly reliable pumps & compressors to many of the world’s most important markets, including energy, chemical, industrial, carbon capture, clean hydrogen, and renewable fuels. Sundyne pumps and compressors are available in API, ANSI/ASME, ISO and other industry compliant designs. To learn more about the Sundyne family of precision-engineered pumps and compressors, please visit
+.
+
+
+
+
+Annual Salary: $120,000.00 - $125,000.00
+The Salary offered will be determined based on the applicant’s education, experience, skills, knowledge, abilities, and will be compared with internal equity along with market data for this position. This position may be eligible to participate in the Company’s Sales Incentive Plan with a target of up to 30% of base salary, subject to the terms and conditions of the plan. Payment is based on individual performance against established sales targets. This position may also be eligible to receive a Relocation bonus, payable as a taxable lump sum, in accordance with the Sundyne Relocation Policy.
+2024-10-30
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-engineer-intermediate-sundyne-JV_IC1148155_KO0,26_KE27,34.htm?jl=1009332044309"
+Senior Data Engineer,Tricon Residential,"Huntersville, NC",$98K - $135K (Glassdoor est.),"locations
+Huntersville, NC
+time type
+Full time
+posted on
+Posted 13 Days Ago
+job requisition id
+JR102419
+Tricon Residential is an owner and operator of a growing portfolio of more than 38,000 single-family rental homes in the U.S. Sun Belt and multi-family apartments in Canada. Our commitment to enriching the lives of our employees, residents and local communities underpins Tricon’s culture and business philosophy. We provide high-quality rental housing options for families across the United States and Canada through our technology-enabled operating platform and dedicated on-the-ground operating teams. Our development programs are also delivering thousands of new rental homes and apartments as part of our commitment to help solve the housing supply shortage. At Tricon, we imagine a world where housing unlocks life’s potential.
+As a Senior Data Engineer, you will be responsible for developing best practices and making architectural decisions to rapidly improve critical data processing & analytics pipelines. You will tackle hard problems to improve the platform’s reliability, resiliency, and scalability. You will provide technical leadership, lead data engineering initiatives and build end-to-end analytical solutions that are highly available, scalable, stable, secure, and cost-effective. You strive for simplicity, demonstrate creativity and sound judgement. You deliver data solutions that are customer focused, easy to consume and create business impact. We are looking for someone who thrives on autonomy and has experience driving long-term projects to completion. You are detail and quality oriented, and excited about the prospects of having a big impact with data at Tricon Residential. Our tech stack includes Informatica, Matillion/Altryx, Snowflake, Power BI/Tableau and various AWS/Azure services.
+Show more",N/A,12d,"https://www.glassdoor.com/job-listing/senior-data-engineer-tricon-residential-JV_IC1138654_KO0,20_KE21,39.htm?jl=1009425150401"
+IT Infrastructure Engineer - Data Networking,enGen,"Pittsburgh, PA",$67K - $100K (Glassdoor est.),"Company :
+enGen
+Job Description :
+JOB SUMMARY
+***CANDIDATE MUST BE US Citizen (due to contractual/access requirements)***
+Successful candidate will be able to effectively manage and maintain an enterprise-level data network focusing on security, wireless and monitoring tools such as Cisco ISE, Solarwinds, DNAC, Wireless Controllers and AP’s. Routing and switching experience is helpful.
+Responsibilities include:
+
+
+
+
+
+
+
+Show more",N/A,11d,"https://www.glassdoor.com/job-listing/it-infrastructure-engineer-data-networking-engen-JV_IC1152990_KO0,42_KE43,48.htm?jl=1009426529855"
+Reservoir Data Engineer III/IV,EQT Corporation,"Pittsburgh, PA",$86K - $121K (Glassdoor est.),"EQT is the United States largest producer of natural gas with a goal to reach Net Zero by or before 2025 (among the fastest in the industry).
+From the office to the field, the #EQTeam is fueling the future. Power your potential with us.
+At EQT, we are making strides toward becoming the best producer by creating long-term value for all stakeholders, including employees, landowners, communities, industry partners and investors. Our vision is to evolve EQT into a modern, connected, digitally enabled organization.
+With an incredibly collaborative culture and a determined, progressive workplace, EQT was both named a National Top Workplace, as well as one of Pittsburgh's Best Places to Work!
+
+
+
+Show more",N/A,5d,"https://www.glassdoor.com/job-listing/reservoir-data-engineer-iii-iv-eqt-corporation-JV_IC1152990_KO0,30_KE31,46.htm?jl=1009435493486"
+Senior Software Engineer - Data Platform,Discord,"San Francisco, CA",$183K - $202K (Employer est.),"This position is US based only.Discord is about giving people the power to create space to find belonging in their lives. We want to make it easier for you to talk regularly with the people you care about. We want you to build genuine relationships with your friends and communities close to home or around the world. Original, reliable, playful, and relatable. These are the values that connect our users and our employees at Discord. The central Data Platform seeks to build a self-service tooling platform to make the petabytes of data at Discord easily accessible for everyone at the company. We build full-stack applications, tooling, and frameworks to improve the productivity of teams at Discord, in particular our product, analytics, and machine learning teams. Our tooling covers the end-to-end lifecycle of data from acquisition to consumption. Reporting to the Engineering Manager of Data Infrastructure, you will work on strategy that is foundational to the company and product. To learn more about Discord Engineering, read ourengineering blog here — including ""How We Create Insights From Trillion Data Points"" that this team is behind! What You'll Be Doing Lead end-to-end development of data tooling and frameworks, using modern technologies such as BigQuery, Apache Beam, Airflow, Dagster, dbt, Kubernetes, and Rust. Ensure tight-knit collaboration with leadership, cross-functional stake-holders and senior engineers across the organization. Collaborate with leadership and senior engineers across the team to define the technical vision and build on the technical roadmap for Data Platform. Work with Data Platform to ensure we have a platform with strong governance that respects our users' privacy throughout. Care deeply about business outcomes and constraints and keep them in mind as you solve hard, unbounded problems. Coach and mentor the next generation of technical leaders at Discord. You Will Thrive In This Role If 5+ years of experience as a Software Engineer. Empathy for both your internal and external users and seek feedback on your work. Ability to approach problems with first principles thinking, embrace ambiguity, and enjoy collaborative work on complex solutions. Experience defining architecture, tooling, and strategy for a large-scale data processing system. Proactive in staying up-to-date with industry trends and assessing new technologies to enhanse problem solving capabilities. Bonus Points Experience working with very high-scale data infrastructure and tooling Experience with data products on Google Cloud Platform, Kubernetes, or Airflow Full-stack development or product engineering experience The US base salary range for this full-time position is $183,000 to $201,500 + equity + benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.#buildbelonging #LI-Remote #LI-Hybrid #LI-HY1Why Discord?Discord is great for playing games and chilling with friends, or even building a worldwide community. We are working toward forming true connections around play and shared experiences, where genuine human connection is a click, text chat, or voice call away. A place where everyone can build genuine friendships. Your future is just a click away! Check out ourinclusion, diversity and purpose efforts, company principles, or learn more about the Life @ Discord experience!
+Show more",N/A,14d,"https://www.glassdoor.com/job-listing/senior-software-engineer-data-platform-discord-JV_IC1147401_KO0,38_KE39,46.htm?jl=1009421959148"
+Data Center Operations Engineer,G-Research,"Sterling, VA",$83K - $132K (Glassdoor est.),"Do you want to tackle the biggest questions in finance with near infinite compute power at your fingertips?
+G-Research is a leading quantitative research and technology firm, with offices in London and Dallas. We are proud to employ some of the best people in their field and to nurture their talent in a dynamic, flexible and highly stimulating culture where world-beating ideas are cultivated and rewarded.
+The Role
+The Data Center Team manages a global estate of data centers with multiple megawatts of capacity. It’s a fast-paced environment with rapid growth, providing an excellent opportunity for candidates wanting to work with the latest technology and infrastructure.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-center-operations-engineer-g-research-JV_IC1130411_KO0,31_KE32,42.htm?jl=1009322033262"
+Analytic Data Engineer – Databricks,enGen,Pennsylvania,$58K - $107K (Employer est.),"Company :
+enGen
+Job Description :
+JOB SUMMARY
+This role within the 'Data Engineering & Self-Service Products' team involves architecting and engineering analytic data solutions, including designing and developing data marts in Databricks using PySpark or Spark SQL, building interactive Power BI dashboards to visualize KPIs and trends, and creating pathways for analysts to access operational, derived, and external data sets. The ideal candidate will have experience working with healthcare data in an analytical, reporting, or data engineering capacity and will be responsible for the operation of data platforms associated with analytic data discovery.
+
+
+Bachelor's Degree in Computer Systems Analysis, Data Processing, Healthcare Informatics, Management Information Systems, or related field or relevant experience and/or education as determined by the company in lieu of bachelor's degree.
+
+$57,700.00
+$106,700.00
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/analytic-data-engineer-databricks-engen-JV_KO0,33_KE34,39.htm?jl=1009342604222"
+Databricks Data Engineer,Unify Consulting,"Seattle, WA",$150K - $180K (Employer est.),"We’re not like others, and neither are you. Unify Consulting is a collective of genuine, curious, seasoned consultants who unlock potential and deliver with purpose and excellence. We unify daring leaders to better the world and are always seeking co-creators, community-builders and truth-tellers who strive to multiply our positive impact.
+
+We are currently seeking a Data Engineer to join our team. This person will be responsible for designing and implementing data solutions that drive value for our clients. The successful candidate will work closely with cross-functional teams to define data strategies, architect data systems, and ensure the integrity, security, and optimal performance of data assets. The Data Engineer’s expertise in data modeling, database design, and data management will be essential in helping our clients unlock the full potential of their data, enabling better decision-making and strategic insights.
+
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/databricks-data-engineer-unify-consulting-JV_IC1150505_KO0,24_KE25,41.htm?jl=1009279868112"
+Sr. Data Engineer,YETI,"Austin, TX",$99K - $133K (Glassdoor est.),"At YETI, we believe that time spent outdoors matters more than ever and our gear can make that time extraordinary. When you work here, you’ll have the opportunity to create exceptional, meaningful work and problem solve with innovative team members by your side. Together, you’ll help our customers get the high-quality gear they need to make the most of their adventures. We are BUILT FOR THE WILD™.
+The Data Engineer will be part of a team that designs and develops YETI’s enterprise Data Warehouse and Analytical systems. This position offers an extremely rare and unique opportunity to join a team that acts as a center of excellence for several analytic teams throughout YETI. This position offers an extremely rare and unique opportunity to join a highly profitable, fast-growing business.
+Responsibilities:
+
+
+Show more",N/A,21d,"https://www.glassdoor.com/job-listing/sr-data-engineer-yeti-JV_IC1139761_KO0,16_KE17,21.htm?jl=1009412611431"
+Risk Data Engineer,Concora Credit Inc.,"Beaverton, OR",$86K - $116K (Glassdoor est.),"Overview:
+Join the nation’s leader in second-look finance servicing as our Risk Data Engineer!
+
+The impact you’ll have at Concora Credit:
+As a Data Engineer, your primary role will be to build and optimize foundational data marts, which will support reporting and analysis across different areas in the organization. This will include building data pipeline architecture, data flows, data transformations and clear documentation. At Concora Credit, you’ll join our Analytics Engineering team and partner with data owners and users to build, problem-solve and optimize key data structures. We are transitioning our data warehouse and analytics to Azure cloud and databricks analytics platform. Join us in this adventure!
+
+Responsibilities:
+Qualifications:
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/risk-data-engineer-concora-credit-inc-JV_IC1151576_KO0,18_KE19,37.htm?jl=1009309803062"
+Senior Data Engineer,Wounded Warrior Project,"Jacksonville, FL",$90K - $134K (Employer est.),"Great benefits. Competitive pay. We know these are some of the things people look for in a job.
+
+If you’re the kind of person who believes that honoring and empowering our nation’s veterans is more than just a cause — that it’s a calling — then we’re ready to meet you.
+When you join Wounded Warrior Project® (WWP), you’re committing to making a difference. We make a commitment to you, too – helping you to find that spark, ignite your passion to serve, and embark on a career with meaning and purpose.
+
+At WWP™, we recognize our mission cannot be accomplished without our talented teammates, which is why we’re proud to offer benefits such as:
+The Wounded Warrior Project (WWP) Senior Data Engineer is a member of the Web, Data, and Analytics team responsible for data engineering and programming to build systems that collect, manage, and convert raw data into usable information for business analysts. The role is crucial in identifying, designing, and implementing internal process improvements to enhance scalability, optimize data delivery, and automate manual processes.
+
+
+
+Show more",N/A,18d,"https://www.glassdoor.com/job-listing/senior-data-engineer-wounded-warrior-project-JV_IC1154093_KO0,20_KE21,44.htm?jl=1009417899361"
+Senior Data Engineer,"Amyris, Inc.","Emeryville, CA",$141K - $207K (Employer est.),"Amyris has developed an industry-leading platform for designing and building synthetic organisms. Our technology is being used today to make clean beauty products, bio-based renewable chemicals, and even vaccine ingredients. The Data Engineering team at Amyris supports a suite of custom applications using various state of the art data technologies that make this cutting-edge science possible. Being on the Data Engineering team is all about learning and sharing experiences using the technologies that will make the difference for the company.
+
+The Senior Data Engineer will be primarily responsible for working with the Data team to participate in achieving the vision of the Data framework. The ideal candidate will come in with knowledge in multiple cloud and database technologies to hit the ground running from a technology perspective. This role would be working on architecture design, engineering, security, resiliency for all the Data environments we have at Amyris. The Senior Data Engineer will help develop governance around API’s and API management keeping in mind the HA\DR needs while also understanding the needs of the company and satisfying various stakeholders. The team uses a wide range of technologies and frameworks, always applying the best tool for the job at hand making this a fantastic opportunity for you to expand your existing skill set.
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-data-engineer-amyris-inc-JV_IC1147352_KO0,20_KE21,31.htm?jl=1009351039793"
+Senior/Lead C++ Engineer - Market Data,Chicago Trading Company (CTC),"Chicago, IL",$250K - $260K (Employer est.),"CTC is a cutting-edge proprietary trading firm with a long-term vision and a clear focus on helping the world price and manage risk. Our fun and trusting culture inspires us to solve the industry’s most challenging problems and take calculated risks in a collaborative environment.
+We strive to be the most innovative firm in the industry today, tomorrow, and long into the future while upholding ethical excellence. We believe that CTC makes a positive impact on the markets, the lives of our employees, and all the communities to which we belong. Started in 1995 by a team of forward-thinking Traders, we are proud to call ourselves an industry leader that keeps making markets and each other better.
+CTC is looking for an individual to help build out our next generation market data stack. Come join us and be involved in mission-critical initiatives that have a direct and meaningful impact on the firm’s daily performance. Our team is fast-paced and dynamic, where team members can quickly see the results of their effort, and their impact on our business.
+
+Show more",N/A,22d,"https://www.glassdoor.com/job-listing/senior-lead-c-engineer-market-data-chicago-trading-company-ctc-JV_IC1128808_KO0,34_KE35,62.htm?jl=1009411643234"
+Data Engineer,"PeopleTec, Inc.","Huntsville, AL",$87K - $127K (Glassdoor est.),"Responsibilities:
+PeopleTec is currently seeking a Data Engineer to support our Huntsville, AL location.
+
+Duties:
+Responsible for carrying out engineering tasks to deliver an advanced visual analytic application to include: developing data analytics for desktop and web-developed visual analytic software; facilitating the bulk analysis of relational information utilizing advanced graphics, visualization, and high-performance computing, as well as using the specified open source, COTS, and GOTS technologies; and establishing an application that produces manageable, actionable intelligence from streams of a structured and semi-structured data.
+Qualifications:
+
+Overview:
+
+
+
+
+
+
+
+Show more",N/A,6d,"https://www.glassdoor.com/job-listing/data-engineer-peopletec-inc-JV_IC1127653_KO0,13_KE14,27.htm?jl=1009434900635"
+Senior Data Analyst Engineer,"PeopleTec, Inc.","Huntsville, AL",$100K - $135K (Glassdoor est.),"Responsibilities:
+PeopleTec is pursuing the Missile Defense Agency Information Management and Software Services (AIMSS) competitive effort, formerly known as the Missile Defense Data Center (MDDC) Program. Our mission is to design and implement a Missile Defense System with multiple layers of protection. As proud employee owners, we’re committed to delivering excellence and innovation in everything we do. Please submit your resume if you are interested in this opportunity and live in the Huntsville or Colorado Springs area—or are considering joining PeopleTec. We’re excited to work together!
+
+
+
+Qualifications:
+Overview:
+
+
+
+
+
+
+
+Show more",N/A,15d,"https://www.glassdoor.com/job-listing/senior-data-analyst-engineer-peopletec-inc-JV_IC1127653_KO0,28_KE29,42.htm?jl=1009420838425"
+Staff Data Engineer,Fluence Energy,"Houston, TX",$130K - $194K (Glassdoor est.),"This position will be supporting the Fluence Mosaic team. Fluence Mosaic team’s software technology uses artificial intelligence, advanced price forecasting, portfolio optimization and market bidding to ensure energy storage and flexible generation assets are responding optimally to price signals sent by the market.
+You will be an integral member of the Fluence Mosaic team, maturing, developing, and maintaining a data ingestion and storage platform which serves our trading, forecasting, reporting, and analytical applications.
+The position will be based in Fluence’s Houston office, with close interaction with a global team of data scientists, product managers, and subject matter experts to shape the evolution of our company and the future of the electricity grid.
+What does a Staff Data Engineer do at Fluence?
+
+Show more",N/A,20d,"https://www.glassdoor.com/job-listing/staff-data-engineer-fluence-energy-JV_IC1140171_KO0,19_KE20,34.htm?jl=1009415215085"
+Data Connections Engineer,Bigbear.ai,"Arlington, VA",$87K - $129K (Glassdoor est.),"Overview:
+BigBear.ai is seeking a Data Connections Engineer, software or data engineer to support our DOD program in the Washington DC metro area. This position will work Hybrid/Remote 2-3 days on site per week in an office located in the National Capital Region (Crystal City, VA). This position requires an active TS clearance.
+This is an ideal opportunity to be part of one of the fastest growing AI/ML companies in the industry. At BigBear.ai, we're in this business together. We own it, we make it thrive, and we enjoy the challenges of our work. We know that our employees play the largest role in our continual success. That is why we foster an environment of growth and development, with an emphasis on opportunity, recognition, and work-life balance. We give the same high level of commitment to our employees that we give to our clients. If BigBear.ai sounds like the place where you want to be, we'd enjoy speaking with you.
+What you will do:
+What you need to have:
+
+What we'd like you to have:
+About BigBear.ai:
+Show more",N/A,11d,"https://www.glassdoor.com/job-listing/data-connections-engineer-bigbear-ai-JV_IC1130337_KO0,25_KE26,36.htm?jl=1009427134759"
+Data Warehouse Engineer,Life.Church,"Edmond, OK",$62K - $101K (Glassdoor est.),"Do you love the Bible and also enjoy writing code and processing data? This role may be for you!
+
+The YouVersion Data Warehouse Engineer role will be responsible for providing data engineering support and delivery across all product lanes. This position will require expertise in areas of data engineering, architecture, governance, quality, and testing. This individual will need to understand the big picture of all things YouVersion data, yet be able to design and deliver at the detailed technical level.
+
+This role is critical in increasing engagement and growth through the Bible App globally. The Data Warehouse Engineer will work tightly with the Data Analytics team, Software Engineering team, and Product teams. This role is responsible for defining and delivering quality data that is used to know our users more closely so our team can fulfill the YouVersion mission, “to encourage and challenge people to seek intimacy with God daily”!
+
+
+
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-warehouse-engineer-life-church-JV_IC1136930_KO0,23_KE24,35.htm?jl=1009332059553"
+IT Data Engineer,Sound,"Tukwila, WA",$90K - $120K (Employer est.),"Overview:
+Sound is growing and we are hiring an IT Data Engineer! Sound is one of King County’s most comprehensive providers of quality mental health and addiction treatment services, supporting our area’s most vulnerable populations. A central tenet of our work is Reaching Recovery, an evidence-based clinical care model.
+
+The IT Data Engineer performs ongoing activities to maintain, enhance and optimize data systems infrastructure technologies utilized by the organization. The Engineer serves as a data centric technical resource for ETL processes, API evaluation and implementation, data flow design, management and optimization.
+Responsibilities:
+Qualifications:
+
+
+
+
+Perks at Sound!:
+
+
+
+
+
+
+Show more",N/A,22d,"https://www.glassdoor.com/job-listing/it-data-engineer-sound-JV_IC1164776_KO0,16_KE17,22.htm?jl=1009411846135"
+Data Engineer/Operations,Bigbear.ai,"Arlington, VA",$87K - $135K (Glassdoor est.),"Overview:
+BigBear.ai is seeking a Data Engineer to support Operations and Maintenance activities that involve developing and designing database models, stored procedures to support web application solutions, and developing and monitoring ETL solutions, to include job-flows.
+Onsite 5 days a week in Arlington, VA
+What you will do:
+Identify and integrate data from multiple sources in batch processing (using scripts) using ETL Tools.
+Provide ongoing Operations and Maintenance support and troubleshoot any issues related to data, ETL code and job-flows, or PL/SQL code. Monitor day-to-day ETL jobs and take corrective actions in case of failure.
+What you need to have:
+What we'd like you to have:
+About BigBear.ai:
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-engineer-operations-bigbear-ai-JV_IC1130337_KO0,24_KE25,35.htm?jl=1009395430060"
+Lead Data Engineer,Hanna Andersson,"Portland, OR",$120K - $170K (Employer est.),"We are the champions of childhood
+Hanna Andersson is a Portland, Oregon-based premier kids and baby clothing brand. Our clothes are made to play, made to last, and designed to let kids be kids. We have core commitments to design, quality, and sustainability, and we believe in helping families create meaningful everyday moments. These principles guide the Hanna Way, and lead to an experience authentically different from other children’s brands.
+
+We cultivate our unique brand by hiring team members who believe in these values, own a customer service mindset, and who are innovative, results-oriented, and comfortable working in a collaborative and growth-driven work environment. We all share in our brand’s success, and we actively encourage our team members to maintain a healthy balance in their daily lives.
+
+
+
+
+Show more",N/A,4d,"https://www.glassdoor.com/job-listing/lead-data-engineer-hanna-andersson-JV_IC1151614_KO0,18_KE19,34.htm?jl=1009437676624"
+Lead Data Engineer,Chatham Financial,"Charlotte, NC",$121K - $155K (Glassdoor est.),"Overview:
+We don't simply hire employees. We invest in them. When you work at Chatham, we empower you — offering professional development opportunities to help you grow in your career, no matter if you've been here for five months or 15 years. Chatham has worked hard to create a distinct work environment that values people, teamwork, integrity, and client service. You will have immediate opportunities to partner with talented subject matter experts, work on complex projects, and contribute to the value Chatham delivers every day.
+
+As the Team Lead, Data Engineering, you will be leading Chatham's data platform evolution. You will create strategies and lead the creation of Data Lake and Data Warehouse platforms along with the ETL processes that feed these new systems. You will lead implementation and oversee a team that will enable Chatham to create new insights for our customers as their data volumes continue to grow. This role will partner with our engineering leads and solutions architects to enable the creation of new analytical processing and customer dashboard and will partner with our Head of Data Governance to ensure that our solutions always consider the sanctity of customer data. We pride ourselves on exciting our clients with our SaaS based products built for: corporations, global real estate firms, financial Institutions, and private equity advisors. We are a global team that thrives on collaboration, fostering relationships, and providing our employees with equal opportunities for growth and professional advancements.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/lead-data-engineer-chatham-financial-JV_IC1138644_KO0,18_KE19,36.htm?jl=1009395202690"
+Senior Data Engineer,Clearlink,"Draper, UT",$108K - $143K (Glassdoor est.),"NOTICE OF JOB OPPORTUNITY
+
+COMPANY: Clear Link Technologies, LLC
+LOCATION: 42 Future Way, Draper, Utah 84020
+TITLE: Senior Data Engineer
+HOURS: Monday to Friday, 8:00 am to 5:00 pm
+
+DUTIES: This position is responsible for developing software solutions that support the Data Platform, Analytics and Digital Transformation initiatives at Clearlink through a multi-disciplinary approach including elements of Software Development, applied Data Science and Big Data.
+
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-data-engineer-clearlink-JV_IC1128274_KO0,20_KE21,30.htm?jl=1009402226033"
+"Senior Software Engineer, Data, Science",Chan Zuckerberg Initiative,"Redwood City, CA",$190K - $285K (Employer est.),"The Chan Zuckerberg Initiative was founded by Priscilla Chan and Mark Zuckerberg in 2015 to help solve some of society's toughest challenges — from eradicating disease and improving education to addressing the needs of our local communities. Our mission is to build a more inclusive, just, and healthy future for everyone.
+The Team
+Founded by Priscilla Chan and Mark Zuckerberg in 2015, the Chan Zuckerberg Initiative (CZI) is a new kind of philanthropy that's leveraging technology to help solve some of society's toughest challenges – from eradicating disease, to improving education. Across our core initiatives of Science and Education, we're pairing engineering with grant making, impact investing, policy work, and advocacy, to progress in our mission of building an inclusive, just and healthy future for everyone.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-software-engineer-data-science-chan-zuckerberg-initiative-JV_IC1147394_KO0,37_KE38,64.htm?jl=1009398911994"
+Business Intelligence Developer - Data Engineer,Wiese Usa Inc,"Saint Louis, MO",$80K - $108K (Glassdoor est.),"Wiese USA has an immediate opening for a Business Intelligence Data Engineer based out of our corporate office in Olivette, MO. In this role, we are seeking a customer-minded technologist who is comfortable with driving change. Adaptable individual must be a problem solver, with proven ability to operate and deliver in a fast-paced, dynamic environment, all the while meeting our Culture and Customer Focused Values. Demonstrated desire to learn and develop professionally are crucial ingredients to this role.
+This role will lead efforts to design data integration and governance architecture and ETL jobs, map pertinent fields from the data warehouse to CRM for sales and/or marketing efforts and ensure data accuracy and usability is maintained at the highest of standards. Lead development of new data processes and use of technologies and application development.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/business-intelligence-developer-data-engineer-wiese-usa-inc-JV_IC1131270_KO0,45_KE46,59.htm?jl=1009398776441"
+Data Center Technology Engineer,LaBella Associates,"Binghamton, NY",$75K - $85K (Employer est.),"LaBella Associates was established in 1978 and is a certified Great Place To Work. We are headquartered in Binghamton/Vestal, NY with offices across New York, Ohio, Pennsylvania, Connecticut, Maine, Virginia, North and South Carolina, and Madrid, Spain. LaBella is a multi-disciplined architectural and engineering firm dedicated to client satisfaction through teamwork, respect, and trust. We provide services that take a project from start to finish—from an initial study to determine a project’s feasibility to construction administration and start up, and everything in between.
+We are currently hiring a Data Center Technology Engineer in our Program Management Services division at our client’s Binghamton/Vestal office.
+Requirements
+Show more",N/A,24h,"https://www.glassdoor.com/job-listing/data-center-technology-engineer-labella-associates-JV_IC1131807_KO0,31_KE32,50.htm?jl=1009441030998"
+Senior Data Platform Engineer,Honor,Remote,$172K - $190K (Employer est.),"Honor exists to expand the world’s capacity to care.
+We’re combining high tech with high-touch to deliver better home care for aging adults, better jobs for Care Professionals, and entirely new offerings to support the aging journey, at scale.
+Founded in 2014, and now a Series E funded “Unicorn” valued at over $1B, Honor leads the world’s largest home care network with the most advanced care platform. Our August 2021 acquisition of Home Instead has created a global company that’s revolutionizing how society cares for older adults, their families, and Care Professionals.
+The Honor Care Platform combines local care and the most advanced technology to bring the highest quality care to more aging adults.
+
+
+
+
+
+Show more",N/A,26d,"https://www.glassdoor.com/job-listing/senior-data-platform-engineer-honor-JV_KO0,29_KE30,35.htm?jl=1009407565066"
+Senior Data Engineer,Colonial Pipeline Company,"Alpharetta, GA",$114K - $149K (Glassdoor est.),"Colonial has provided a wide range of opportunities for job candidates who are highly qualified, skilled, motivated and team players. Employees find exciting opportunities to grow and develop their careers at a stable company which offers a generous compensation and benefits package that includes annual incentive bonuses, retirement plans, insurance coverage and a host of other features that support a happy, active, productive and rewarding life. Come to Colonial, a great place to work, where people matter most, and where safety 24/7 is paramount.
+Ready to work for Colonial Pipeline Company?
+Are you intrigued by the thought of being part of revolutionizing the energy industry and a new era in the pipeline industry? Do you want to be a part of a company that is obsessed with excellence in everything we do? A company growing and expanding our business that is full of opportunity? If so, we are seeking smart, safety focused, and energetic professionals to join our team to help us to the next level of excellence!
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-data-engineer-colonial-pipeline-company-JV_IC1155582_KO0,20_KE21,46.htm?jl=1009382503575"
+"Senior Machine Learning Engineer, Data Platform",PubMatic,"Redwood City, CA",$160K - $180K (Employer est.),"Location:
+Redwood City, CA, US
+
+Department:
+Machine Learning/Ad Serving
+
+PubMatic (Nasdaq: PUBM) is an independent technology company maximizing customer value by delivering digital advertising’s supply chain of the future.
+
+PubMatic’s sell-side platform empowers the world’s leading digital content creators across the open internet to control access to their inventory and increase monetization by enabling marketers to drive return on investment and reach addressable audiences across ad formats and devices.
+
+Since 2006, our infrastructure-driven approach has allowed for the efficient processing and utilization of data in real time. By delivering scalable and flexible programmatic innovation, we improve outcomes for our customers while championing a vibrant and transparent digital advertising supply chain.
+
+Job Description
+
+PubMatic is seeking a Sr. Machine Learning Engineer with big data experience who can work on building the next generation ML platform. The ideal candidate is a self-motivated problem solver with a strong background in big data tech stack, software design and development.
+
+If you get excited about building a highly impactful machine learning platform which processes large datasets, in a creative and fast-paced open cultured environment, then you should consider applying for this position.
+
+Responsibilities
+
+Build, design and implement our highly scalable, fault-tolerant, highly available big data platform to process terabytes of data and provide customers with in-depth analytics.
+
+Developing Big Data pipelines using modern technology stack such as Spark, Hadoop, Kafka, HBase, Hive,etc .
+
+Developing analytics application ground up using modern technology stack such as Java, Spring, Tomcat, Jenkins, REST APIs, JDBC, Amazon Web Services, Hibernate;
+
+Building data pipeline to automate high-volume data collection and processing to provide real-time data analytics.
+
+Work collaboratively with Machine Learning and monetization team to make democratize data for analysis and impact.
+
+Build solutions for help monetization team to run experiments at a fast pace and analyse data accurately to calculate impact.
+
+Have good understanding of the engineering tech stack and ML algorithms to make data processing jobs powering these algorithms more efficient and scalable.
+
+Develop systems to objectively monitor the impact of various experimental changes on machine learning algorithms, clearly highlighting both positive and negative outcomes.
+
+Managing Hadoop Map Reduce and Spark Jobs & solving any ongoing issues with operating the cluster;
+
+Expertise in developing Implementation of professional software engineering best practices for the full software development life cycle, including coding standards, performing code reviews, committing to Github, preparing documents in Confluence, continuous delivery using Jenkins, automated testing, and operations.
+
+Participate in Agile/Scrum processes such as Sprint Planning, Sprint Retrospective, Backlog grooming, User story management, work item prioritization, etc.
+
+Keep in regular touch with quality engineering team which ensure the quality of the platforms/products and performance SLAs of Java based microservices and Spark based data pipeline.
+
+Support customer issues over email or JIRA(bug tracking system), provide updates, patches to customers to fix the issues.
+
+Discuss with Technical Writing team about the technical documents that are published on documentation portal.
+
+Perform code and design reviews for code implemented by peers or as per the code review process.
+
+Qualifications
+
+3-5 years coding experience in Java,
+
+Solid computer science fundamentals including data structure and algorithm design, and creation of architectural specifications.
+
+Expertise in developing Implementation of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, documentation, build processes, automated testing, and operations.
+
+A passion for developing and maintaining a high-quality code and test base, and enabling contributions from engineers across the team.
+
+Expertise in big data technologies like Hadoop, Spark, Kafka, HBase etc would be an added advantage.
+
+Experience in developing and delivering large scale big data pipelines, real-time systems & data warehouses would be preferred.
+
+Demonstrated ability to achieve stretch goals in a very innovative and fast paced environment.
+
+Demonstrated ability to learn new technologies quickly and independently.
+
+Excellent verbal and written communication skills, especially in technical communications.
+
+Strong inter-personal skills and a desire to work collaboratively.
+
+Compensation And Benefits
+
+$160,000 - $180,000
+
+In accordance with applicable law, the above salary range provided is PubMatic’s reasonable estimate of the base salary for this role. The actual amount may vary, based on non-discriminatory factors such as location, experience, knowledge, skills and abilities. In addition to salary PubMatic also offers a bonus and a competitive benefits package.
+
+Additional Information
+
+PubMatic employees throughout the globe have returned to our offices via a hybrid work schedule (3 days “in office” and 2 days “working remotely”) that is intended to maximize collaboration, innovation, and productivity among teams and across functions.
+
+Our benefits package includes the best of what leading organizations provide such as, paid leave programs, paid holidays, healthcare, dental and vision insurance, disability and life insurance, commuter benefits, physical and financial wellness programs, unlimited DTO in the US (that we actually require you to use!), reimbursement for mobile and fully stocked pantries plus in-office catered lunches 4 days per week.
+
+PubMatic is proud to be an equal opportunity employer; we don’t just value diversity, we promote and celebrate it. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status
+
+San Francisco
+
+Oakland
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-machine-learning-engineer-data-platform-pubmatic-JV_IC1147394_KO0,46_KE47,55.htm?jl=1009328656101"
+"Software Engineer, Data Infrastructure",Joby Aviation,"Santa Cruz, CA",$126K - $188K (Employer est.),"Joby Overview: Located in Northern California, the team at Joby Aviation is driven by our goal of creating an affordable, all-electric air transportation system. Imagine a piloted air taxi that takes off vertically, then quietly carries you and your fellow passengers over the congested city streets below, enabling you to spend more time with the people and places that matter most. Since 2009, our team has worked steadily to make this dream a reality. We’ve designed and tested many generations of prototype aircraft capable of serving in a network of electric air taxis. We’re looking for talented, committed individuals to join our team as we push onwards toward certifying the Joby aircraft with the Federal Aviation Administration, scaling our manufacturing, and preparing to launch commercial service in 2025. Overview:
+Working as a Senior Software Engineer you will be responsible for further development of infrastructure and platforms for wrangling data produced by Joby Aviation test and flight operations. You should be able to work cohesively inside of a team, understand large data systems, and have an eye for scalable and flexible designs. You will also need to work closely with your colleagues across a broad set of highly technical disciplines who depend on data. The ideal candidate is energetic, has a positive attitude, is flexible and excited about learning and using new technologies.
+Responsibilities:
+Required:
+Desired:
+EEO:
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/software-engineer-data-infrastructure-joby-aviation-JV_IC1147488_KO0,37_KE38,51.htm?jl=1009378375227"
+Data Links & Communication Engineer SME,Applied Research Solutions,"Bedford, MA",$89K - $129K (Glassdoor est.),"Applied Research Solutions is seeking candidates for the role of Data Links & Communication Engineer SME located at Hanscom AFB, in Bedford, MA.
+Why Work with us?
+Applied Research Solutions (ARS) is respected as a world-class provider of technically integrated solutions as we deliver premier talent and technology across our focused markets for unparalleled, continuous mission support. Awarded a Best Places to Work nominee since 2020, ARS recognizes that without our career- driven, loyal professionals, we would not be able to deliver state-of-the-art results for our mission partners. We firmly believe that prioritizing our employees is of the upmost importance. We provide a culture where our employees are challenged to meet their career goals and aspirations, while still obtaining a work/life balance. ARS employees are motivated through our industry competitive benefits package, our awards and recognition program, and personalized attention from ARS Senior Managers.
+Show more",N/A,4d,"https://www.glassdoor.com/job-listing/data-links-communication-engineer-sme-applied-research-solutions-JV_IC1154527_KO0,37_KE38,64.htm?jl=1009437407779"
+Lead eCommerce Data Engineer,The Bradford Hammacher Group,"Niles, IL",$71K - $112K (Glassdoor est.),"Overview:
+Impassioned…Emboldened…Infinitely Curious: The Bradford Exchange, part of The Bradford Hammacher Group family of brands, is a world leader in new product development. We have been selling joy for the last 50 years! Our global organization consists of 8 business divisions ranging from jewelry, apparel, collectible coins, home decor to holiday and so much more. We concept, create, design and market our creative products directly to our customers, and leverage licenses with the biggest names in entertainment and sports to bring unique and curated products to our customers across the globe.
+
+We’re currently seeking a Lead eCommerce Data Engineer that will drive the design, development, and implementation of data, BI & analytic solutions and systems, including: business process analysis, database design, core data architecture, data process development and enhancement, and report/dashboard design & development. This senior level role will take responsibility for project work from requirements to implementation, and be able to guide, support, and measure team activities towards completion of project goals. Must be comfortable working in autonomous roles and providing quality/consistent communications with team members and senior management.
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/lead-ecommerce-data-engineer-the-bradford-hammacher-group-JV_IC1128931_KO0,28_KE29,57.htm?jl=1009323053091"
+Data Center Engineer - NOAA CBU (On-site),"Earth Resources Technology, Inc","Fairmont, WV",$63K - $96K (Glassdoor est.),"Position Description
+ERT is looking for a highly skilled data center technician to support NOAA's environmental satellite data center in Fairmont, WV to ensure that servers and network perform optimally. In this role, your duties will include data center monitoring, corrective and preventive maintenance, data center walkthroughs, emergency maintenance response, and status reporting. You will provide back up support for our satellite antenna technician. You will also be required to support equipment and supply shipping/receiving, inventory support, and other administrative management activities of the data center and satellite systems.
+To ensure success as a data center technician, you should have experience in supporting data center monitoring and ensuring the efficiency of data center systems. You should have experience in taking proactive steps to reduce the likelihood of system outages, spot potential problems before they occur, and work on a team of professionals providing multiple site data monitoring, maintenance, and logistical support. Responsibilities include:
+
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-center-engineer-noaa-cbu-on-site-earth-resources-technology-inc-JV_IC1143878_KO0,37_KE38,68.htm?jl=1009314198977"
+Senior Network Engineer - RRMS Data Center,Rapid Response Monitoring,"Corona, CA",$130K - $160K (Employer est.),"Location
+This position is 100% in-office and reports to our facility on-site in Corona, CA
+Role Summary
+At Rapid Response Monitoring Services, we are on the cutting edge of enterprise technology, operating a state-of-the-art data center that powers critical monitoring services for our clients. As a Senior Network Engineer, you will have the opportunity to work with the latest networking hardware and software from industry leaders like Cisco, f5 Networks, Pure Storage, and Palo Alto Networks.
+As the backbone of our data center operations, you will play a pivotal role in ensuring the seamless performance and security of our network. Your expertise will be essential in managing and optimizing our complex infrastructure, including firewalls, switches, routers, and other mission-critical networking equipment.
+
+
+
+
+
+
+
+
+Show more",N/A,11d,"https://www.glassdoor.com/job-listing/senior-network-engineer-rrms-data-center-rapid-response-monitoring-JV_IC1147072_KO0,40_KE41,66.htm?jl=1009427141012"
+"Senior Software Engineer, Data Platform",Moveworks.ai,"Mountain View, CA",$200K - $220K (Employer est.),"Data Infrastructure Mountain View, CA Full Time
+
+Who We Are
+Moveworks is the universal AI copilot for search and automation across all your business applications. We give employees one place to go to find information and get support while reducing costs for your business. The Moveworks Copilot is powered by an industry-leading Reasoning Engine that uses a combination of public and proprietary language models to understand employee queries, then build and execute multi-step plans that achieve them. It does this by linking into systems (like ITSM, HRIS, ERP, identity management, and more) with native and custom-built integrations that turn natural language into powerful automations for employees.
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-software-engineer-data-platform-moveworks-ai-JV_IC1147431_KO0,38_KE39,51.htm?jl=1009279739362"
+Lead Data Modeler - Data Engineer,Two Six Technologies,"Arlington, VA",$94K - $141K (Glassdoor est.),"At Two Six Technologies, we build, deploy, and implement innovative products that solve the world's most complex challenges today. Through unrivaled collaboration and unwavering trust, we push the boundaries of what's possible to empower our team and support our customers in building a safer global future.
+Two Six Technologies is at the forefront of developing the future data model that ties multiple DoD domains together into a unified system. To aid this effort, we are seeking a Lead Data Modeler with an Active Top Secret (TS) clearance to lead this groundbreaking work. We are looking for a data expert with strong experience as a backend engineer or systems architect. The ideal Data Modeler will come up to speed on our data model and be able to act independently at the customer site and work and interact directly with our customer.
+
+Show more",N/A,26d,"https://www.glassdoor.com/job-listing/lead-data-modeler-data-engineer-two-six-technologies-JV_IC1130337_KO0,31_KE32,52.htm?jl=1009407891412"
+Engineer - Supervisory Control and Data Acquisition (SCADA),Brentwood Industries Inc.,"Reading, PA",$60K - $90K (Glassdoor est.),"SCADA Engineer – Reading, PA
+We have an immediate opening for a SCADA Engineer
+at our 621 Brentwood Drive Facility.
+The Supervisory Control and Data Acquisition (“SCADA”) Engineer is responsible for human and machine interactions on the production floor integrating with various support systems, primarily ERP. The role is crucial in ensuring that production processes are stable, reliable, and capable of meeting global demands. Employee may perform other related duties as required to meet the ongoing needs of the organization.
+
+Essential Responsibilities:
+
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/engineer-supervisory-control-and-data-acquisition-scada-brentwood-industries-inc-JV_IC1153175_KO0,55_KE56,80.htm?jl=1009313707361"
+"Senior Principal Engineer, Data Infra",Cardlytics,"Menlo Park, CA",$260K - $285K (Employer est.),"About Cardlytics
+Remember that time you got cash back on a cup of coffee through your banking app? That was us!
+Cardlytics (NASDAQ: CDLX) is the industry-leading purchase intelligence and incentives platform. We are a product-driven company that cares about three things: our people, our customers, and our partners. Together, we make commerce more rewarding for everyone by helping businesses attract, understand, and incentivize consumers through their banks’ digital channels.
+Location: Menlo Park, CA (Hybrid) or Remote - PST Time Zone
+About the Team
+At Data Infra, our goal is to streamline Cardlytics data consumption across the entire organization. We understand that accessible, reliable data underpins informed decision-making and innovative problem-solving. By partnering closely with teams, we tailor our solutions to fit their specific workflow needs and make strategic investments in our Data Infra platform to ensure swift access to data. Our approach is designed to not only simplify the way teams interact with data but also to accelerate time-to-insight, enabling Cardlytics teams to harness the full potential of their data for impactful outcomes.
+
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-principal-engineer-data-infra-cardlytics-JV_IC1147371_KO0,36_KE37,47.htm?jl=1009338797296"
+"Senior Software Engineer, Data",Integral Ad Science,United States,$101K - $173K (Employer est.),"Integral Ad Science (IAS) is a global technology and data company that builds verification, optimization, and analytics solutions for the advertising industry and we're looking for a Senior Data Engineer to join our team. If you are excited by technology that has the power to handle hundreds of thousands of transactions per second; collect tens of billions of events each day; and evaluate thousands of data-points in real-time all while responding in just a few milliseconds, then IAS is the place for you!
+As a Senior Software Engineer specializing in data, you will provide technical leadership and expertise to help build ad verification, analytics, and reporting solutions that deliver on the team's mission of helping advertisers to understand the quality of the ad data they're purchasing within the digital media ecosystem.
+The ideal candidate is intellectually curious, dedicated, has a track record of design and building end-to-end software solutions, keen on keeping up with the latest industry trend, delivers high quality software within project timeline, enjoys working in a collaborative agile environment, can provide support and guidance to junior team members.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-software-engineer-data-integral-ad-science-JV_KO0,29_KE30,49.htm?jl=1009282639294"
+Senior Software Engineer - Core Data Platform Team,Cardlytics,"Menlo Park, CA",$180K - $215K (Employer est.),"About Cardlytics
+Remember that time you got cash back on a cup of coffee through your banking app? That was us!
+Cardlytics (NASDAQ: CDLX) is the industry-leading purchase intelligence and incentives platform. We are a product-driven company that cares about three things: our people, our customers, and our partners. Together, we make commerce more rewarding for everyone by helping businesses attract, understand, and incentivize consumers through their banks’ digital channels.
+About the Position
+Cardlytics is seeking a Senior Software Engineer to join our team, reporting to the Director of Engineering. The core data platform team is responsible for the data infrastructure that power the various products and offerings within Cardlytics.
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-software-engineer-core-data-platform-team-cardlytics-JV_IC1147371_KO0,48_KE49,59.htm?jl=1009338797407"
+Staff Software Engineer - Data Platform,Harness.io,"Mountain View, CA",$145K - $185K (Employer est.),"Mountain View, CA
+Harness is a high-growth company that is disrupting the software delivery market. Our mission is to enable the 30 million software developers in the world to deliver code to their users reliably, efficiently, securely and quickly, increasing customers’ pace of innovation while improving the developer experience. We offer solutions for every step of the software delivery lifecycle to build, test, secure, deploy and manage reliability, feature flags and cloud costs. The Harness Software Delivery Platform includes modules for CI, CD, Cloud Cost Management, Feature Flags, Service Reliability Management, Security Testing Orchestration, Chaos Engineering, Software Engineering Insights and continues to expand at an incredibly fast pace.
+Harness is led by technologist and entrepreneur Jyoti Bansal, who founded AppDynamics and sold it to Cisco for $3.7B. We’re backed with $425M in venture financing from top-tier VC and strategic firms, including J.P. Morgan, Capital One Ventures, Citi Ventures, ServiceNow, Splunk Ventures, Norwest Venture Partners, Adage Capital Partners, Balyasny Asset Management, Gaingels, Harmonic Growth Partners, Menlo Ventures, IVP, Unusual Ventures, GV (formerly Google Ventures), Alkeon Capital, Battery Ventures, Sorenson Capital, Thomvest Ventures and Silicon Valley Bank.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/staff-software-engineer-data-platform-harness-io-JV_IC1147431_KO0,37_KE38,48.htm?jl=1009326672076"
+"Lead Engineer, Data Management","Vuori, Inc","Carlsbad, CA",$160K - $175K (Employer est.),"Company Description
+
+Vuori is re-defining what athletic apparel looks like: built to move and sweat in but designed with a casual aesthetic to transition into everyday life. We draw inspiration from an active coastal California lifestyle; an integration of fitness, creative expression, and life. We aim to inspire others to take on all aspects of their lives with clarity, enthusiasm, and purpose…while having a lot of fun along the way. Working at Vuori, our goal is to create something special together. Our foundation and success are made possible thanks to incredible people, thriving culture, and an inspirational community.
+
+Job Description
+
+
+
+
+
+Show more",N/A,18d,"https://www.glassdoor.com/job-listing/lead-engineer-data-management-vuori-inc-JV_IC1147279_KO0,29_KE30,39.htm?jl=1009417670870"
+Data Links and Communication Engineer,"Odyssey Systems Consulting Group, Ltd.","Bedford, MA",$114K - $168K (Glassdoor est.),"Position Summary:
+Odyssey Systems has an exciting opportunity for a Data Links and Communication Engineer SME providing support to the Air Force Life Cycle Management Center Aerial Networks Division (AFLCMC/HNA).
+
+This position will support the Tactical Data Networks Enterprise Program.
+Responsibilities:
+In this position you will need to posses the advanced knowledge, experience and recognized ability to be considered an expert in their technical/professional field and possess the ability to perform tasks and oversee the efforts of junior and mid-level personnel within the technical/professional discipline. You will provide knowledge and experience in the development, integration, testing, and deployment of Air Force systems and their associated data links, to include definition of data link interoperability, interfaces, and verification and test assessment requirements.
+
+Qualifications:
+
+
+
+
+
+Company Overview:
+
+
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-links-and-communication-engineer-odyssey-systems-consulting-group-ltd-JV_IC1154527_KO0,37_KE38,74.htm?jl=1009324475144"
+Principal Engineer Customer Data Platform - NYC,Rokt,"New York, NY",$190K - $312K (Employer est.),"We are Rokt, a hyper-growth ecommerce leader. We enable companies to unlock value by making each transaction relevant at the moment that matters most, when customers are buying. Together, Rokt's AI-based relevance Platform and scaled ecommerce network powers billions of transactions. In December 2022, Rokt’s valuation increased to $2.4 billion USD, allowing us to expand rapidly across 15 countries.
+The Rokt engineering team builds best-in-class ecommerce technology that provides personalized and relevant experiences for customers globally and empowers marketers with sophisticated, AI-driven tooling to better understand consumers. Our bespoke platform handles millions of transactions per day and considers billions of data points which give engineers the opportunity to build technology at scale, collaborate across teams and gain exposure to a wide range of technology.
+Show more",N/A,5d,"https://www.glassdoor.com/job-listing/principal-engineer-customer-data-platform-nyc-rokt-JV_IC1132348_KO0,45_KE46,50.htm?jl=1009435828821"
+Sr. Software Engineer – Data Analysis and Visualization System,Riverside Research Institute,"Centreville, VA",$160K - $192K (Employer est.),"Riverside Overview: Riverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical services, research and development, and prototype solutions to some of the country’s most challenging technical problems. All Riverside Research opportunities require U.S. Citizenship. Position Overview:
+Riverside Research is seeking a Sr. Software Engineer – Data Analysis and Visualization System to work in our Lexington, MA, or Centreville, VA office. We are searching for an experienced candidate that has worked in environments with good software cultures promoting best practices and processes. We seek a motivated and collaborative employee who will be comfortable working within a cohesive software development team. This candidate will help define architecture, plan out designs, write code to implement functionality, and maintain a software system that includes multiple services, components, and user facing clients.
+
+Responsibilities:
+Qualifications:
+Global Comp: $160,000 - $192,000 This represents the typical compensation range for this position based on experience, location and other factors. Closing Statement: Riverside Research Institute is a not-for-profit, technology-oriented defense company, where service to our customers and support of our staff is our overall mission. Riverside is an affirmative action-equal opportunity employer and complies with all applicable federal, state, and local laws regarding recruitment and hiring. Riverside offers comprehensive compensation and benefit packages to our employees. Riverside bases its employment decisions solely on technical experience, qualifications and other job-related criteria related to our organizational purpose as a not-for-profit company, and without regard to race, color, religion, age, sex marital status, sexual orientation, national origin, physical or mental disability, veteran’s status or any other status legally protected by applicable federal, state, and local law.
+Show more",N/A,15d,"https://www.glassdoor.com/job-listing/sr-software-engineer-data-analysis-and-visualization-system-riverside-research-institute-JV_IC1130352_KO0,59_KE60,88.htm?jl=1009420850411"
+Sr. Data Center Telecommunications Engineer,"Intrado Life & Safety, Inc.","Longmont, CO",$70K - $119K (Employer est.),"About Us:
+Intrado is dedicated to saving lives and protecting communities, helping them prepare for, respond to, and recover from critical events.
+Today, our cutting-edge SaaS company is at the forefront of transforming the 911 emergency response continuum with next generation data-driven software. Intrado’s solutions allow enterprises, call takers, dispatchers, and first responders to make more informed decisions, respond quickly and safely, and ultimately serve their communities better.
+Responsibilities:
+Office Location: 1601 Dry Creek Drive #250, Longmont CO 80503
+This role does require individuals to be onsite Monday through Friday
+
+
+Total Rewards:
+
+Show more",N/A,11d,"https://www.glassdoor.com/job-listing/sr-data-center-telecommunications-engineer-intrado-life-safety-inc-JV_IC1148118_KO0,42_KE43,66.htm?jl=1009427402957"
+Data Center Safety Engineer 数据中心安全工程师,EZSVS USA Inc.,"Atlanta, GA",$60K (Employer est.),"Job Responsibilities:
+Safeguard the physical security of the IDC site and ensure personnel and asset access compliance.
+Promote data center on-site operation and maintenance, facilities and other related teams to land the physical security management system;
+Through training, drills and tests, improve the safety awareness and safety skills of the on-site safety team to meet the requirements of each position and guarantee the physical safety of the territory; OSHA certificate &/ OR NFPA 704 Diamond are preferred
+through the daily security patrol, the machine room security status of the full amount of inspection, timely detection of risks and hidden problems, and promote the rectification of the closed loop;
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/data-center-safety-engineer-%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88-ezsvs-usa-inc-JV_IC1155583_KO0,37_KE38,51.htm?jl=1009399323099"
+SDA Data Fusion Network Engineer,"Odyssey Systems Consulting Group, Ltd.","Colorado Springs, CO",$125K - $135K (Employer est.),"Position Summary:
+Odyssey Systems has an exciting opportunity for an Advisory and Assistance Services (A&AS) contractor supporting the US Space Force and its mission to Protect and Defend National Security Interests in Space as a Space Domain Awareness (SDA) Data Fusion Network Engineer on the US Space Force, Space Systems Command, Space Domain Awareness (SDA) Acquisition Delta’s Space Data Fusion team. This position provides A&AS support to transition science and technology efforts to real-world operational systems.
+
+This is a full-time position at 2424 Garden of the Gods Road in Colorado Springs, CO with an opportunity for remote work 2-3 days per week at the discretion of the Government.
+
+
+
+Responsibilities:
+Qualifications:
+Company Overview:
+
+Please Note::
+
+
+
+
+
+Show more",N/A,29d,"https://www.glassdoor.com/job-listing/sda-data-fusion-network-engineer-odyssey-systems-consulting-group-ltd-JV_IC1148136_KO0,32_KE33,69.htm?jl=1009404744861"
+Senior Cloud Data Engineer - TS/SCI with Polygraph,Applied Insight,"Hanover, MD",$73K - $105K (Glassdoor est.),"About Us: Innovating to solve real-world problems
+Applied Insight enhances the ability of federal government customers to preserve national security, deliver justice and serve the public with advanced technologies and quality analysis. We work closely with agencies and industry to overcome technical and cultural hurdles to innovation, empowering them with the latest end-to-end cloud infrastructure, big data and cyber capabilities. Our expertise in cross-domain and boundary solutions, network analytics, DevOps and low-to-high development is unique in our industry. We develop and deliver innovative products and applications that are deployed in highly sensitive customer environments and have broad applications for federal missions.
+On joining the Applied Insight team, you’ll be working to solve real-world problems on missions that matter with people who share your passions and encourage your ambition. It’s vital to us that we hire committed people who are great at what they do. We return that commitment by empowering them with the autonomy, the support and the tools they need to fulfill their true potential.
+
+
+
+
+Flexible work from home options available.
+Show more",N/A,30d+,"https://www.glassdoor.com/job-listing/senior-cloud-data-engineer-ts-sci-with-polygraph-applied-insight-JV_IC1153584_KO0,48_KE49,64.htm?jl=1009351465624"
